@@ -1,0 +1,9 @@
+# This file will be read by resetprop
+ro.product.brand=Lenovo
+ro.product.name=A6020
+ro.product.device=A6020
+ro.product.manufacturer=Lenovo
+ro.build.product=A6020
+ro.lineage.device=A6020
+ro.product.model=Vibe K5
+

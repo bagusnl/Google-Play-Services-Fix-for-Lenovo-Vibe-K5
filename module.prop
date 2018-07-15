@@ -1,0 +1,7 @@
+id=k5-playservices-fix
+name=Google Play Services Fix for Lenovo Vibe K5
+version=v1.0
+versionCode=10
+author=bagusnl
+description=Fix "Device Incompatible" for Google Play Services.
+minMagisk=1500
