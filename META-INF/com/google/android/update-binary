@@ -154,4 +154,9 @@ rm -rf $TMPDIR
 ui_print " IMMEDIATELY REBOOT AFTER THIS "
 ui_print "BY CLICKING REBOOT BUTTON BELOW"
 ui_print "- Done"
+killall com.google.android.gms
+rm -rf /data/data/com.google.android.gms
+killall com.android.vending
+rm -rf /data/data/com.android.vending
+reboot
 exit 0
