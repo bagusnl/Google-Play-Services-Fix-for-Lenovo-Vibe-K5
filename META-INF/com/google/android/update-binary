@@ -153,6 +153,7 @@ $BOOTMODE || recovery_cleanup
 rm -rf $TMPDIR
 ui_print " IMMEDIATELY REBOOT AFTER THIS "
 ui_print "BY CLICKING REBOOT BUTTON BELOW"
+sleep 5
 ui_print "- Done"
 killall com.google.android.gms
 rm -rf /data/data/com.google.android.gms
